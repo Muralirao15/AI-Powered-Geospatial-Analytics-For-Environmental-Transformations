@@ -33,6 +33,10 @@ Environmental data report for Andhra Pradesh in 2015:
 - Sentinel2 EVI: 0.2817290179982828
 - Sentinel2 NDMI: 0.084964709287121
 - Sentinel2 MNDWI: -0.1046416182822548
+
+
+
+
 This data reflects the environmental conditions in Andhra Pradesh for 2015, capturing metrics like vegetation health (NDVI), land cover (Dynamic World labels), and spectral reflectance.
 
 Environmental data report for Andhra Pradesh in 2016:
